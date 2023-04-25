@@ -3,7 +3,7 @@ package server
 import (
 	"awesomeProject/internal/application/usecases"
 	"awesomeProject/internal/infrastructure/database"
-	"awesomeProject/internal/interfaces/http"
+	"awesomeProject/internal/infrastructure/http"
 )
 
 func main() {
