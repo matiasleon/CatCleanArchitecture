@@ -1,7 +1,7 @@
 package server
 
 import (
-	"awesomeProject/internal/interfaces/http"
+	"awesomeProject/internal/infrastructure/http"
 
 	"github.com/gin-gonic/gin"
 )
